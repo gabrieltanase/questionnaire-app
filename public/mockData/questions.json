@@ -1,0 +1,239 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "title": "Ik focus mij het liefst op één taak",
+      "type": "slider",
+      "possibleAnswers": [
+        {
+          "min": 10,
+          "max": 70,
+          "step": 10
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ik hou van vernieuwing",
+      "type": "slider",
+      "possibleAnswers": [
+        {
+          "min": 10,
+          "max": 70,
+          "step": 10
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Ik vind het lastig om te switchen tussen taken",
+      "type": "slider",
+      "possibleAnswers": [
+        {
+          "min": 10,
+          "max": 70,
+          "step": 10
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Voordat ik aan een taak begin werk ik de taakhelemaal uit",
+      "type": "slider",
+      "possibleAnswers": [
+        {
+          "min": 10,
+          "max": 70,
+          "step": 10
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Ik ga graag naar meet-ups",
+      "type": "slider",
+      "possibleAnswers": [
+        {
+          "min": 10,
+          "max": 70,
+          "step": 10
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Ik werk het liefste alleen",
+      "type": "scale",
+      "possibleAnswers": [
+        {
+          "value": "Totally agree",
+          "score": 7
+        },
+        {
+          "value": "Agree",
+          "score": 6
+        },
+        {
+          "value": "Slightly agree",
+          "score": 5
+        },
+        {
+          "value": "Neutral",
+          "score": 4
+        },
+        {
+          "value": "Slightly disagree",
+          "score": 3
+        },
+        {
+          "value": "Disagree",
+          "score": 2
+        },
+        {
+          "value": "Totally disagree",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Als ik tot nieuwe inzichten ben gekomen deel ik diegraag met anderen",
+      "type": "scale",
+      "possibleAnswers": [
+        {
+          "value": "Totally agree",
+          "score": 7
+        },
+        {
+          "value": "Agree",
+          "score": 6
+        },
+        {
+          "value": "Slightly agree",
+          "score": 5
+        },
+        {
+          "value": "Neutral",
+          "score": 4
+        },
+        {
+          "value": "Slightly disagree",
+          "score": 3
+        },
+        {
+          "value": "Disagree",
+          "score": 2
+        },
+        {
+          "value": "Totally disagree",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Ik vind het leuk om te leren van anderen",
+      "type": "scale",
+      "possibleAnswers": [
+        {
+          "value": "Totally agree",
+          "score": 7
+        },
+        {
+          "value": "Agree",
+          "score": 6
+        },
+        {
+          "value": "Slightly agree",
+          "score": 5
+        },
+        {
+          "value": "Neutral",
+          "score": 4
+        },
+        {
+          "value": "Slightly disagree",
+          "score": 3
+        },
+        {
+          "value": "Disagree",
+          "score": 2
+        },
+        {
+          "value": "Totally disagree",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Als ik met een probleem zit, los ik dat het liefst zelf op",
+      "type": "scale",
+      "possibleAnswers": [
+        {
+          "value": "Totally agree",
+          "score": 7
+        },
+        {
+          "value": "Agree",
+          "score": 6
+        },
+        {
+          "value": "Slightly agree",
+          "score": 5
+        },
+        {
+          "value": "Neutral",
+          "score": 4
+        },
+        {
+          "value": "Slightly disagree",
+          "score": 3
+        },
+        {
+          "value": "Disagree",
+          "score": 2
+        },
+        {
+          "value": "Totally disagree",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Ik hou er niet van om gestoord te worden tijdens mijn werk door collega’s met een probleem",
+      "type": "scale",
+      "possibleAnswers": [
+        {
+          "value": "Totally agree",
+          "score": 7
+        },
+        {
+          "value": "Agree",
+          "score": 6
+        },
+        {
+          "value": "Slightly agree",
+          "score": 5
+        },
+        {
+          "value": "Neutral",
+          "score": 4
+        },
+        {
+          "value": "Slightly disagree",
+          "score": 3
+        },
+        {
+          "value": "Disagree",
+          "score": 2
+        },
+        {
+          "value": "Totally disagree",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}
